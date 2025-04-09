@@ -3,6 +3,6 @@ pandas==2.1.4
 numpy==1.26.4
 scikit-learn==1.4.0
 python-dotenv==1.0.0
-langchain-groq==0.1.1
-langchain==0.0.348
+langchain-groq==0.3.2
+langchain==0.3.23
 pyarrow==14.0.2
